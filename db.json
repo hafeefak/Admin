@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "hafeefa@gmail.com",
+      "password": "1234",
+      "id": "1a47"
+    }
+  ],
+  "products": [
+    {
+      "id": "1da2",
+      "name": "shirt",
+      "description": "White colour Romber-unisex",
+      "quantity": "2",
+      "price": "230",
+      "category": "cloths"
+    },
+    {
+      "id": "dd52",
+      "name": "skirt",
+      "description": "set ",
+      "quantity": "34",
+      "price": "560",
+      "category": "cloth"
+    },
+    {
+      "id": "86f4",
+      "name": "rohmber",
+      "description": "cute rohmber",
+      "quantity": "38",
+      "price": "1000",
+      "category": "cloths"
+    }
+  ]
+}
