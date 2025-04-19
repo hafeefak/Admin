@@ -2,7 +2,7 @@ import React from 'react'
 import {Routes,Route} from "react-router-dom"
 import Dashboard from './assets/Dashboard'
 import Login from './assets/Login'
-import Products from './assets/products'
+import Products from './assets/Prd'
 import AllProducts from './assets/AllProducts'
 import FetchProducts from './assets/Context/FetchProducts'
 

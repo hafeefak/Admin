@@ -1,6 +1,6 @@
 import React,{useContext} from 'react'
 import axios from 'axios'
-import Products from './products'
+import Products from './Prd'
 import { Fetch } from './Context/FetchProducts'
 import { useNavigate } from 'react-router-dom'
 
